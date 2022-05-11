@@ -1,0 +1,12 @@
+### Notes on Assessment 02
+- Week 2
+- Variables are limited to the workflow while arugments are used a parameters 
+- Variables hold certain data type while arguemnts pass data
+- Review- Variables are scoped to the workflow while arugemnts can be used to pass information to other work flows. Varoables delcared cant be shared between workflows even if delcared. Arugemtns lets you take the variable and pass it to another work flow and flows between passing data to one work flow to another 
+- Both hold data and have data types- Variabes only exist within the scope it is in the work flows while arugemtns are used to pass data between workflows 
+- Workflow- small piece of automation that you use to execute your logic like sequences and flowcharts and different templates that will process your data. 
+- Difference between a flowchart and sequence- sequence is more code intenseive, you have blocks and a flow chart is arros that go block from block
+- Flow chart shows logic, good for problems that are branching and sequence good for linear process. Sequence are linear and good for step by step process with no logic branches while flow is good for branches. 
+Difference between workflow and sequence- Worflow is a general term for coding that arranges you logic 
+Sequence is a type of workflow that arrange activities in a linear manner
+ - Looping in sequences is outting in a new block and base it again on repeating on condiditons. 
